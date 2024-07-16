@@ -1,4 +1,4 @@
- Coffee Orders Dashboard
+# Coffee Orders Dashboard
 
 This repository contains an interactive Excel Dashboard that visualizes coffee sales across the US, UK, and Ireland. The dashboard provides a comprehensive analysis of the best-performing coffee products and preferences in different regions. Additionally, it offers insights into the performance of sales over time, helping to identify trends and patterns in coffee consumption.
 
